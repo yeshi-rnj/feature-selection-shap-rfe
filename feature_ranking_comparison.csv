@@ -1,0 +1,31 @@
+,SHAP,Built-in,RFE,Consensus score,Consensus rank,RFECV keeps
+worst perimeter,2,1,1,1.3333333333333333,1,True
+worst area,1,2,2,1.6666666666666667,2,True
+worst concave points,3,3,3,3.0,3,True
+mean concave points,4,4,4,4.0,4,True
+worst radius,5,5,5,5.0,5,True
+mean concavity,6,8,7,7.0,6,True
+mean radius,7,6,11,8.0,7,True
+mean perimeter,8,7,9,8.0,8,True
+mean area,9,9,6,8.0,9,True
+worst concavity,10,10,10,10.0,10,True
+worst texture,12,13,8,11.0,11,True
+area error,11,11,13,11.666666666666666,12,True
+mean texture,13,15,14,14.0,13,True
+worst smoothness,14,16,12,14.0,14,True
+radius error,15,14,17,15.333333333333334,15,True
+worst compactness,16,17,16,16.333333333333332,16,True
+worst symmetry,18,18,15,17.0,17,True
+perimeter error,17,19,20,18.666666666666668,18,True
+mean compactness,19,12,25,18.666666666666668,19,False
+mean smoothness,20,21,18,19.666666666666668,20,True
+worst fractal dimension,21,20,21,20.666666666666668,21,True
+texture error,23,22,24,23.0,22,False
+compactness error,22,26,22,23.333333333333332,23,True
+concavity error,24,23,26,24.333333333333332,24,False
+fractal dimension error,30,27,19,25.333333333333332,25,True
+mean symmetry,26,29,23,26.0,26,True
+concave points error,27,24,28,26.333333333333332,27,False
+smoothness error,25,25,29,26.333333333333332,28,False
+mean fractal dimension,28,28,27,27.666666666666668,29,False
+symmetry error,29,30,30,29.666666666666668,30,False
